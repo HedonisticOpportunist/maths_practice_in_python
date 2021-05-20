@@ -26,4 +26,4 @@ print(sequencesAndSeries.find_nth_term_for_an_arithmetic_sequence(3, 5, 10))
 print(sequencesAndSeries.find_the_nth_term_for_a_geometric_sequence(2, 3, 7))
 
 # find the sum of an arithmetic sequence
-print(sequencesAndSeries.find_sum_of_arthimetic_sequence(10, 3, 4))
+print(sequencesAndSeries.find_sum_of_arithmetic_sequence(10, 3, 4))
